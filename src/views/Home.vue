@@ -5,10 +5,10 @@
       <b-field label="Aperature">
           <b-input v-model="aperature"></b-input>
       </b-field>
-      <b-field label="Sensor Width (mm)">
+      <b-field label="Sensor Physical Width (mm)">
           <b-input v-model="sensorWidthMm"></b-input>
       </b-field>
-      <b-field label="Pixel Width (px)">
+      <b-field label="Sensor Pixel Width (px)">
           <b-input v-model="sensorWidthPx"></b-input>
       </b-field>
       <b-field label="Focal Length (mm)">
