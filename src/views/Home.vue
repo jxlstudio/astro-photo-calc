@@ -18,10 +18,10 @@
     </div>
     <div class="column" id="output">
       <h2>Output</h2>
-      <div class="box">Pixel Pitch: 
+      <div class="box">Pixel Pitch:
         <h3>{{ pixelPitch.toFixed(2) }}</h3>
       </div>
-      <div class="box">Max Exposure Length: 
+      <div class="box">Max Exposure Length:
         <h3>{{ exposureLength.toFixed(0) }} seconds</h3>
       </div>
     </div>
@@ -31,6 +31,10 @@
 <script>
 // @ is an alias to /src
 // import HelloWorld from '@/components/HelloWorld.vue'
+
+// T o Build:
+// Camera selector with json file of pixel pitches
+// Clean up UI
 
 export default {
   name: 'home',
