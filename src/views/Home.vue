@@ -23,7 +23,7 @@
       </div>
       <div class="box">Max Exposure Length: 
         <h3>{{ exposureLength.toFixed(0) }} seconds</h3>
-      g</div>
+      </div>
     </div>
   </div>
 </template>
