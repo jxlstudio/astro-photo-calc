@@ -18,7 +18,12 @@
     </div>
     <div class="column" id="output">
       <h2>Output</h2>
-      <!-- {{ exposureLength }} -->
+      <div class="box">Pixel Pitch: 
+        <h3>{{ pixelPitch.toFixed(2) }}</h3>
+      </div>
+      <div class="box">Max Exposure Length: 
+        <h3>{{ exposureLength.toFixed(0) }} seconds</h3>
+      g</div>
     </div>
   </div>
 </template>
@@ -38,6 +43,15 @@ export default {
       sensorWidthMm: 35.9,
       sensorWidthPx: 7424,
       focalLength: 16
+    }
+  },
+  computed: {
+    pixelPitch: function () {
+      return (this.sensorWidthMm / this.sensorWidthPx) * 1000
+    },
+    exposureLength: function () {
+      let e = (((35 * this.aperature) + 30) * this.pixelPitch) / this.focalLength
+      return e
     }
   }
 }
