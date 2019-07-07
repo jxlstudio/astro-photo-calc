@@ -1,0 +1,2074 @@
+[
+  {
+    "camera": "Canon EOS 1000D",
+    "sensorWidth": 22.2,
+    "sensorHeight": 14.8,
+    "pixelWidth": 3906,
+    "pixelHeight": 2602,
+    "pixelPitch": 5.683563748
+  },
+  {
+    "camera": "Canon EOS 100D",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 5208,
+    "pixelHeight": 3476,
+    "pixelPitch": 4.28187404
+  },
+  {
+    "camera": "Canon EOS 10D",
+    "sensorWidth": 22.7,
+    "sensorHeight": 15.1,
+    "pixelWidth": 3152,
+    "pixelHeight": 2068,
+    "pixelPitch": 7.20177665
+  },
+  {
+    "camera": "Canon EOS 1100D",
+    "sensorWidth": 22.2,
+    "sensorHeight": 14.8,
+    "pixelWidth": 4352,
+    "pixelHeight": 2874,
+    "pixelPitch": 5.101102941
+  },
+  {
+    "camera": "Canon EOS 1200D",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 5202,
+    "pixelHeight": 3465,
+    "pixelPitch": 4.286812764
+  },
+  {
+    "camera": "Canon EOS 1D Mark II",
+    "sensorWidth": 28.7,
+    "sensorHeight": 19.1,
+    "pixelWidth": 3596,
+    "pixelHeight": 2360,
+    "pixelPitch": 7.9810901
+  },
+  {
+    "camera": "Canon EOS 1D Mark II N",
+    "sensorWidth": 28.7,
+    "sensorHeight": 19.1,
+    "pixelWidth": 3596,
+    "pixelHeight": 2360,
+    "pixelPitch": 7.9810901
+  },
+  {
+    "camera": "Canon EOS 1D Mark III",
+    "sensorWidth": 28.7,
+    "sensorHeight": 18.7,
+    "pixelWidth": 3984,
+    "pixelHeight": 2622,
+    "pixelPitch": 7.203815261
+  },
+  {
+    "camera": "Canon EOS 1D Mark IV",
+    "sensorWidth": 27.9,
+    "sensorHeight": 18.6,
+    "pixelWidth": 4896,
+    "pixelHeight": 3264,
+    "pixelPitch": 5.698529412
+  },
+  {
+    "camera": "Canon EOS 1D X",
+    "sensorWidth": 36,
+    "sensorHeight": 24,
+    "pixelWidth": 5202,
+    "pixelHeight": 3533,
+    "pixelPitch": 6.920415225
+  },
+  {
+    "camera": "Canon EOS 1D X Mark II",
+    "sensorWidth": 36,
+    "sensorHeight": 24,
+    "pixelWidth": 5496,
+    "pixelHeight": 3670,
+    "pixelPitch": 6.550218341
+  },
+  {
+    "camera": "Canon EOS 1Ds",
+    "sensorWidth": 35.8,
+    "sensorHeight": 23.8,
+    "pixelWidth": 4082,
+    "pixelHeight": 2718,
+    "pixelPitch": 8.770210681
+  },
+  {
+    "camera": "Canon EOS 1Ds Mark II",
+    "sensorWidth": 36,
+    "sensorHeight": 24,
+    "pixelWidth": 5108,
+    "pixelHeight": 3348,
+    "pixelPitch": 7.047768207
+  },
+  {
+    "camera": "Canon EOS 1Ds Mark III",
+    "sensorWidth": 36,
+    "sensorHeight": 24,
+    "pixelWidth": 5712,
+    "pixelHeight": 3774,
+    "pixelPitch": 6.302521008
+  },
+  {
+    "camera": "Canon EOS 20D",
+    "sensorWidth": 22.5,
+    "sensorHeight": 15,
+    "pixelWidth": 3596,
+    "pixelHeight": 2360,
+    "pixelPitch": 6.256952169
+  },
+  {
+    "camera": "Canon EOS 300D",
+    "sensorWidth": 22.7,
+    "sensorHeight": 15.1,
+    "pixelWidth": 3152,
+    "pixelHeight": 2068,
+    "pixelPitch": 7.20177665
+  },
+  {
+    "camera": "Canon EOS 30D",
+    "sensorWidth": 22.5,
+    "sensorHeight": 15,
+    "pixelWidth": 3596,
+    "pixelHeight": 2360,
+    "pixelPitch": 6.256952169
+  },
+  {
+    "camera": "Canon EOS 350D",
+    "sensorWidth": 22.2,
+    "sensorHeight": 14.8,
+    "pixelWidth": 3516,
+    "pixelHeight": 2328,
+    "pixelPitch": 6.313993174
+  },
+  {
+    "camera": "Canon EOS 400D",
+    "sensorWidth": 22.2,
+    "sensorHeight": 14.8,
+    "pixelWidth": 3948,
+    "pixelHeight": 2622,
+    "pixelPitch": 5.623100304
+  },
+  {
+    "camera": "Canon EOS 40D",
+    "sensorWidth": 22.2,
+    "sensorHeight": 14.8,
+    "pixelWidth": 3944,
+    "pixelHeight": 2622,
+    "pixelPitch": 5.628803245
+  },
+  {
+    "camera": "Canon EOS 450D",
+    "sensorWidth": 22.2,
+    "sensorHeight": 14.8,
+    "pixelWidth": 4312,
+    "pixelHeight": 2876,
+    "pixelPitch": 5.148423006
+  },
+  {
+    "camera": "Canon EOS 500D",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 4770,
+    "pixelHeight": 3153,
+    "pixelPitch": 4.675052411
+  },
+  {
+    "camera": "Canon EOS 50D",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 4770,
+    "pixelHeight": 3177,
+    "pixelPitch": 4.675052411
+  },
+  {
+    "camera": "Canon EOS 550D",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 5184,
+    "pixelHeight": 3456,
+    "pixelPitch": 4.301697531
+  },
+  {
+    "camera": "Canon EOS 5D",
+    "sensorWidth": 35.8,
+    "sensorHeight": 23.8,
+    "pixelWidth": 4476,
+    "pixelHeight": 2954,
+    "pixelPitch": 7.99821269
+  },
+  {
+    "camera": "Canon EOS 5D Mark II",
+    "sensorWidth": 36,
+    "sensorHeight": 24,
+    "pixelWidth": 5634,
+    "pixelHeight": 3753,
+    "pixelPitch": 6.389776358
+  },
+  {
+    "camera": "Canon EOS 5D Mark III",
+    "sensorWidth": 36,
+    "sensorHeight": 24,
+    "pixelWidth": 5920,
+    "pixelHeight": 3950,
+    "pixelPitch": 6.081081081
+  },
+  {
+    "camera": "Canon EOS 5D Mark IV",
+    "sensorWidth": 36,
+    "sensorHeight": 24,
+    "pixelWidth": 6880,
+    "pixelHeight": 4544,
+    "pixelPitch": 5.23255814
+  },
+  {
+    "camera": "Canon EOS 5DS",
+    "sensorWidth": 36,
+    "sensorHeight": 24,
+    "pixelWidth": 8736,
+    "pixelHeight": 5856,
+    "pixelPitch": 4.120879121
+  },
+  {
+    "camera": "Canon EOS 5DS R",
+    "sensorWidth": 36,
+    "sensorHeight": 24,
+    "pixelWidth": 8736,
+    "pixelHeight": 5856,
+    "pixelPitch": 4.120879121
+  },
+  {
+    "camera": "Canon EOS 600D",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 5344,
+    "pixelHeight": 3516,
+    "pixelPitch": 4.172904192
+  },
+  {
+    "camera": "Canon EOS 60D",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 5194,
+    "pixelHeight": 3464,
+    "pixelPitch": 4.293415479
+  },
+  {
+    "camera": "Canon EOS 650D",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 5280,
+    "pixelHeight": 3528,
+    "pixelPitch": 4.223484848
+  },
+  {
+    "camera": "Canon EOS 6D",
+    "sensorWidth": 35.8,
+    "sensorHeight": 23.9,
+    "pixelWidth": 5568,
+    "pixelHeight": 3708,
+    "pixelPitch": 6.429597701
+  },
+  {
+    "camera": "Canon EOS 700D",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 5208,
+    "pixelHeight": 3476,
+    "pixelPitch": 4.28187404
+  },
+  {
+    "camera": "Canon EOS 70D",
+    "sensorWidth": 22.5,
+    "sensorHeight": 15,
+    "pixelWidth": 5496,
+    "pixelHeight": 3670,
+    "pixelPitch": 4.093886463
+  },
+  {
+    "camera": "Canon EOS 750D",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 6024,
+    "pixelHeight": 4022,
+    "pixelPitch": 3.70185923
+  },
+  {
+    "camera": "Canon EOS 760D",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 6024,
+    "pixelHeight": 4022,
+    "pixelPitch": 3.70185923
+  },
+  {
+    "camera": "Canon EOS 7D",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 5360,
+    "pixelHeight": 3515,
+    "pixelPitch": 4.160447761
+  },
+  {
+    "camera": "Canon EOS 7D Mark II",
+    "sensorWidth": 22.4,
+    "sensorHeight": 15,
+    "pixelWidth": 5496,
+    "pixelHeight": 3670,
+    "pixelPitch": 4.075691412
+  },
+  {
+    "camera": "Canon EOS 80D",
+    "sensorWidth": 22.5,
+    "sensorHeight": 15,
+    "pixelWidth": 6288,
+    "pixelHeight": 4056,
+    "pixelPitch": 3.578244275
+  },
+  {
+    "camera": "Canon EOS M",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 5280,
+    "pixelHeight": 3528,
+    "pixelPitch": 4.223484848
+  },
+  {
+    "camera": "Canon EOS M10",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 5208,
+    "pixelHeight": 3476,
+    "pixelPitch": 4.28187404
+  },
+  {
+    "camera": "Canon EOS M2",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 5208,
+    "pixelHeight": 3476,
+    "pixelPitch": 4.28187404
+  },
+  {
+    "camera": "Canon EOS M3",
+    "sensorWidth": 22.3,
+    "sensorHeight": 14.9,
+    "pixelWidth": 6024,
+    "pixelHeight": 4022,
+    "pixelPitch": 3.70185923
+  },
+  {
+    "camera": "Fujifilm FinePix S5 Pro",
+    "sensorWidth": 23,
+    "sensorHeight": 15.5,
+    "pixelWidth": 3024,
+    "pixelHeight": 2016,
+    "pixelPitch": 7.605820106
+  },
+  {
+    "camera": "Fujifilm GFX 50S",
+    "sensorWidth": 43.8,
+    "sensorHeight": 32.9,
+    "pixelWidth": 8256,
+    "pixelHeight": 6192,
+    "pixelPitch": 5.305232558
+  },
+  {
+    "camera": "Fujifilm X-E1",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4962,
+    "pixelHeight": 3286,
+    "pixelPitch": 4.756146715
+  },
+  {
+    "camera": "Fujifilm X-E2",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4962,
+    "pixelHeight": 3286,
+    "pixelPitch": 4.756146715
+  },
+  {
+    "camera": "Fujifilm X-Pro1",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4962,
+    "pixelHeight": 3286,
+    "pixelPitch": 4.756146715
+  },
+  {
+    "camera": "Fujifilm X-Pro2",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6058,
+    "pixelHeight": 4012,
+    "pixelPitch": 3.89567514
+  },
+  {
+    "camera": "Fujifilm X-T1",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4962,
+    "pixelHeight": 3286,
+    "pixelPitch": 4.756146715
+  },
+  {
+    "camera": "Fujifilm X-T2",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6058,
+    "pixelHeight": 4012,
+    "pixelPitch": 3.89567514
+  },
+  {
+    "camera": "Fujifilm X-T20",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6058,
+    "pixelHeight": 4012,
+    "pixelPitch": 3.89567514
+  },
+  {
+    "camera": "Fujifilm X100F",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6058,
+    "pixelHeight": 4012,
+    "pixelPitch": 3.89567514
+  },
+  {
+    "camera": "Hasselblad H6D-50c",
+    "sensorWidth": 43.8,
+    "sensorHeight": 32.9,
+    "pixelWidth": 8272,
+    "pixelHeight": 6200,
+    "pixelPitch": 5.294970986
+  },
+  {
+    "camera": "Hasselblad X1D-50c",
+    "sensorWidth": 43.8,
+    "sensorHeight": 32.9,
+    "pixelWidth": 8272,
+    "pixelHeight": 6200,
+    "pixelPitch": 5.294970986
+  },
+  {
+    "camera": "Leica M (Typ 240)",
+    "sensorWidth": 36,
+    "sensorHeight": 24,
+    "pixelWidth": 5984,
+    "pixelHeight": 4000,
+    "pixelPitch": 6.016042781
+  },
+  {
+    "camera": "Leica M Monochrom (Typ 246)",
+    "sensorWidth": 35.8,
+    "sensorHeight": 23.9,
+    "pixelWidth": 6000,
+    "pixelHeight": 4000,
+    "pixelPitch": 5.966666667
+  },
+  {
+    "camera": "Leica M10",
+    "sensorWidth": 36,
+    "sensorHeight": 24,
+    "pixelWidth": 6000,
+    "pixelHeight": 4000,
+    "pixelPitch": 6
+  },
+  {
+    "camera": "Leica Q (Typ 116)",
+    "sensorWidth": 36,
+    "sensorHeight": 24,
+    "pixelWidth": 6016,
+    "pixelHeight": 4016,
+    "pixelPitch": 5.984042553
+  },
+  {
+    "camera": "Leica S (Typ 007)",
+    "sensorWidth": 45,
+    "sensorHeight": 30,
+    "pixelWidth": 7520,
+    "pixelHeight": 5000,
+    "pixelPitch": 5.984042553
+  },
+  {
+    "camera": "Leica S-E (Typ 006)",
+    "sensorWidth": 45,
+    "sensorHeight": 30,
+    "pixelWidth": 7500,
+    "pixelHeight": 5000,
+    "pixelPitch": 6
+  },
+  {
+    "camera": "Leica SL (Typ 601)",
+    "sensorWidth": 36,
+    "sensorHeight": 24,
+    "pixelWidth": 6016,
+    "pixelHeight": 4016,
+    "pixelPitch": 5.984042553
+  },
+  {
+    "camera": "Nikon 1 AW1",
+    "sensorWidth": 13.2,
+    "sensorHeight": 8.8,
+    "pixelWidth": 4620,
+    "pixelHeight": 3082,
+    "pixelPitch": 2.857142857
+  },
+  {
+    "camera": "Nikon 1 J1",
+    "sensorWidth": 13.2,
+    "sensorHeight": 8.8,
+    "pixelWidth": 3904,
+    "pixelHeight": 2606,
+    "pixelPitch": 3.381147541
+  },
+  {
+    "camera": "Nikon 1 J2",
+    "sensorWidth": 13.2,
+    "sensorHeight": 8.8,
+    "pixelWidth": 3904,
+    "pixelHeight": 2604,
+    "pixelPitch": 3.381147541
+  },
+  {
+    "camera": "Nikon 1 J3",
+    "sensorWidth": 13.2,
+    "sensorHeight": 8.8,
+    "pixelWidth": 4620,
+    "pixelHeight": 3082,
+    "pixelPitch": 2.857142857
+  },
+  {
+    "camera": "Nikon 1 J4",
+    "sensorWidth": 13.2,
+    "sensorHeight": 8.8,
+    "pixelWidth": 5248,
+    "pixelHeight": 3502,
+    "pixelPitch": 2.515243902
+  },
+  {
+    "camera": "Nikon 1 J5",
+    "sensorWidth": 13.2,
+    "sensorHeight": 8.8,
+    "pixelWidth": 5584,
+    "pixelHeight": 3724,
+    "pixelPitch": 2.363896848
+  },
+  {
+    "camera": "Nikon 1 S1",
+    "sensorWidth": 13.2,
+    "sensorHeight": 8.8,
+    "pixelWidth": 3948,
+    "pixelHeight": 2602,
+    "pixelPitch": 3.343465046
+  },
+  {
+    "camera": "Nikon 1 V1",
+    "sensorWidth": 13.2,
+    "sensorHeight": 8.8,
+    "pixelWidth": 3904,
+    "pixelHeight": 2606,
+    "pixelPitch": 3.381147541
+  },
+  {
+    "camera": "Nikon 1 V2",
+    "sensorWidth": 13.2,
+    "sensorHeight": 8.8,
+    "pixelWidth": 4620,
+    "pixelHeight": 3082,
+    "pixelPitch": 2.857142857
+  },
+  {
+    "camera": "Nikon 1 V3",
+    "sensorWidth": 13.2,
+    "sensorHeight": 8.8,
+    "pixelWidth": 5248,
+    "pixelHeight": 3502,
+    "pixelPitch": 2.515243902
+  },
+  {
+    "camera": "Nikon D1",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.5,
+    "pixelWidth": 1995,
+    "pixelHeight": 1304,
+    "pixelPitch": 11.87969925
+  },
+  {
+    "camera": "Nikon D100",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.5,
+    "pixelWidth": 3029,
+    "pixelHeight": 1980,
+    "pixelPitch": 7.824364477
+  },
+  {
+    "camera": "Nikon D1H",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.5,
+    "pixelWidth": 1995,
+    "pixelHeight": 1304,
+    "pixelPitch": 11.87969925
+  },
+  {
+    "camera": "Nikon D1X",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.5,
+    "pixelWidth": 2847,
+    "pixelHeight": 1861,
+    "pixelPitch": 8.32455216
+  },
+  {
+    "camera": "Nikon D200",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 3904,
+    "pixelHeight": 2616,
+    "pixelPitch": 6.045081967
+  },
+  {
+    "camera": "Nikon D2H",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.5,
+    "pixelWidth": 2496,
+    "pixelHeight": 1648,
+    "pixelPitch": 9.495192308
+  },
+  {
+    "camera": "Nikon D2Hs",
+    "sensorWidth": 23.2,
+    "sensorHeight": 15.4,
+    "pixelWidth": 2488,
+    "pixelHeight": 1648,
+    "pixelPitch": 9.324758842
+  },
+  {
+    "camera": "Nikon D2X",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.7,
+    "pixelWidth": 4320,
+    "pixelHeight": 2868,
+    "pixelPitch": 5.486111111
+  },
+  {
+    "camera": "Nikon D2Xs",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.7,
+    "pixelWidth": 4328,
+    "pixelHeight": 2866,
+    "pixelPitch": 5.475970425
+  },
+  {
+    "camera": "Nikon D3",
+    "sensorWidth": 36,
+    "sensorHeight": 23.9,
+    "pixelWidth": 4288,
+    "pixelHeight": 2844,
+    "pixelPitch": 8.395522388
+  },
+  {
+    "camera": "Nikon D300",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 4352,
+    "pixelHeight": 2868,
+    "pixelPitch": 5.422794118
+  },
+  {
+    "camera": "Nikon D3000",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 4310,
+    "pixelHeight": 2868,
+    "pixelPitch": 5.475638051
+  },
+  {
+    "camera": "Nikon D300s",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 4352,
+    "pixelHeight": 2868,
+    "pixelPitch": 5.422794118
+  },
+  {
+    "camera": "Nikon D3100",
+    "sensorWidth": 23.1,
+    "sensorHeight": 15.4,
+    "pixelWidth": 4672,
+    "pixelHeight": 3084,
+    "pixelPitch": 4.944349315
+  },
+  {
+    "camera": "Nikon D3200",
+    "sensorWidth": 23.2,
+    "sensorHeight": 15.4,
+    "pixelWidth": 6080,
+    "pixelHeight": 4012,
+    "pixelPitch": 3.815789474
+  },
+  {
+    "camera": "Nikon D3300",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6016,
+    "pixelHeight": 4016,
+    "pixelPitch": 3.90625
+  },
+  {
+    "camera": "Nikon D3400",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6016,
+    "pixelHeight": 4016,
+    "pixelPitch": 3.90625
+  },
+  {
+    "camera": "Nikon D3s",
+    "sensorWidth": 36,
+    "sensorHeight": 23.9,
+    "pixelWidth": 4288,
+    "pixelHeight": 2844,
+    "pixelPitch": 8.395522388
+  },
+  {
+    "camera": "Nikon D3x",
+    "sensorWidth": 35.9,
+    "sensorHeight": 24,
+    "pixelWidth": 6080,
+    "pixelHeight": 4044,
+    "pixelPitch": 5.904605263
+  },
+  {
+    "camera": "Nikon D4",
+    "sensorWidth": 36,
+    "sensorHeight": 23.9,
+    "pixelWidth": 4992,
+    "pixelHeight": 3292,
+    "pixelPitch": 7.211538462
+  },
+  {
+    "camera": "Nikon D40",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.6,
+    "pixelWidth": 3040,
+    "pixelHeight": 2014,
+    "pixelPitch": 7.796052632
+  },
+  {
+    "camera": "Nikon D40x",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 3904,
+    "pixelHeight": 2616,
+    "pixelPitch": 6.045081967
+  },
+  {
+    "camera": "Nikon D4s",
+    "sensorWidth": 36,
+    "sensorHeight": 23.9,
+    "pixelWidth": 4936,
+    "pixelHeight": 3288,
+    "pixelPitch": 7.293354943
+  },
+  {
+    "camera": "Nikon D5",
+    "sensorWidth": 35.8,
+    "sensorHeight": 23.9,
+    "pixelWidth": 5584,
+    "pixelHeight": 3728,
+    "pixelPitch": 6.411174785
+  },
+  {
+    "camera": "Nikon D50",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.6,
+    "pixelWidth": 3040,
+    "pixelHeight": 2014,
+    "pixelPitch": 7.796052632
+  },
+  {
+    "camera": "Nikon D500",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.7,
+    "pixelWidth": 5599,
+    "pixelHeight": 3728,
+    "pixelPitch": 4.197178068
+  },
+  {
+    "camera": "Nikon D5000",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 4310,
+    "pixelHeight": 2868,
+    "pixelPitch": 5.475638051
+  },
+  {
+    "camera": "Nikon D5100",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4992,
+    "pixelHeight": 3280,
+    "pixelPitch": 4.727564103
+  },
+  {
+    "camera": "Nikon D5200",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6036,
+    "pixelHeight": 4020,
+    "pixelPitch": 3.893306826
+  },
+  {
+    "camera": "Nikon D5300",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6016,
+    "pixelHeight": 4016,
+    "pixelPitch": 3.90625
+  },
+  {
+    "camera": "Nikon D5500",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6016,
+    "pixelHeight": 4016,
+    "pixelPitch": 3.90625
+  },
+  {
+    "camera": "Nikon D5600",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6016,
+    "pixelHeight": 4016,
+    "pixelPitch": 3.90625
+  },
+  {
+    "camera": "Nikon D60",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 3904,
+    "pixelHeight": 2616,
+    "pixelPitch": 6.045081967
+  },
+  {
+    "camera": "Nikon D600",
+    "sensorWidth": 35.9,
+    "sensorHeight": 24,
+    "pixelWidth": 6080,
+    "pixelHeight": 4028,
+    "pixelPitch": 5.904605263
+  },
+  {
+    "camera": "Nikon D610",
+    "sensorWidth": 35.9,
+    "sensorHeight": 24,
+    "pixelWidth": 6080,
+    "pixelHeight": 4028,
+    "pixelPitch": 5.904605263
+  },
+  {
+    "camera": "Nikon D70",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.6,
+    "pixelWidth": 3040,
+    "pixelHeight": 2014,
+    "pixelPitch": 7.796052632
+  },
+  {
+    "camera": "Nikon D700",
+    "sensorWidth": 36,
+    "sensorHeight": 23.9,
+    "pixelWidth": 4288,
+    "pixelHeight": 2844,
+    "pixelPitch": 8.395522388
+  },
+  {
+    "camera": "Nikon D7000",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4991,
+    "pixelHeight": 3280,
+    "pixelPitch": 4.72851132
+  },
+  {
+    "camera": "Nikon D70s",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.6,
+    "pixelWidth": 3040,
+    "pixelHeight": 2014,
+    "pixelPitch": 7.796052632
+  },
+  {
+    "camera": "Nikon D7100",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6036,
+    "pixelHeight": 4020,
+    "pixelPitch": 3.893306826
+  },
+  {
+    "camera": "Nikon D7200",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6016,
+    "pixelHeight": 4016,
+    "pixelPitch": 3.90625
+  },
+  {
+    "camera": "Nikon D750",
+    "sensorWidth": 35.9,
+    "sensorHeight": 24,
+    "pixelWidth": 6032,
+    "pixelHeight": 4032,
+    "pixelPitch": 5.951591512
+  },
+  {
+    "camera": "Nikon D80",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 3900,
+    "pixelHeight": 2613,
+    "pixelPitch": 6.051282051
+  },
+  {
+    "camera": "Nikon D800",
+    "sensorWidth": 35.9,
+    "sensorHeight": 24,
+    "pixelWidth": 7424,
+    "pixelHeight": 4924,
+    "pixelPitch": 4.835668103
+  },
+  {
+    "camera": "Nikon D800E",
+    "sensorWidth": 35.9,
+    "sensorHeight": 24,
+    "pixelWidth": 7424,
+    "pixelHeight": 4924,
+    "pixelPitch": 4.835668103
+  },
+  {
+    "camera": "Nikon D810",
+    "sensorWidth": 35.9,
+    "sensorHeight": 24,
+    "pixelWidth": 7380,
+    "pixelHeight": 4928,
+    "pixelPitch": 4.864498645
+  },
+  {
+    "camera": "Nikon D810A",
+    "sensorWidth": 35.9,
+    "sensorHeight": 24,
+    "pixelWidth": 7380,
+    "pixelHeight": 4928,
+    "pixelPitch": 4.864498645
+  },
+  {
+    "camera": "Nikon D90",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 4310,
+    "pixelHeight": 2868,
+    "pixelPitch": 5.475638051
+  },
+  {
+    "camera": "Nikon Df",
+    "sensorWidth": 36,
+    "sensorHeight": 23.9,
+    "pixelWidth": 4992,
+    "pixelHeight": 3292,
+    "pixelPitch": 7.211538462
+  },
+  {
+    "camera": "Olympus E-3",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 3720,
+    "pixelHeight": 2800,
+    "pixelPitch": 4.650537634
+  },
+  {
+    "camera": "Olympus E-30",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4100,
+    "pixelHeight": 3084,
+    "pixelPitch": 4.219512195
+  },
+  {
+    "camera": "Olympus E-410",
+    "sensorWidth": 18,
+    "sensorHeight": 14,
+    "pixelWidth": 3720,
+    "pixelHeight": 2800,
+    "pixelPitch": 4.838709677
+  },
+  {
+    "camera": "Olympus E-420",
+    "sensorWidth": 18,
+    "sensorHeight": 14,
+    "pixelWidth": 3720,
+    "pixelHeight": 2800,
+    "pixelPitch": 4.838709677
+  },
+  {
+    "camera": "Olympus E-450",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 3720,
+    "pixelHeight": 2800,
+    "pixelPitch": 4.650537634
+  },
+  {
+    "camera": "Olympus E-5",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4096,
+    "pixelHeight": 3084,
+    "pixelPitch": 4.223632813
+  },
+  {
+    "camera": "Olympus E-510",
+    "sensorWidth": 18,
+    "sensorHeight": 14,
+    "pixelWidth": 3720,
+    "pixelHeight": 2800,
+    "pixelPitch": 4.838709677
+  },
+  {
+    "camera": "Olympus E-520",
+    "sensorWidth": 17,
+    "sensorHeight": 13,
+    "pixelWidth": 3720,
+    "pixelHeight": 2800,
+    "pixelPitch": 4.569892473
+  },
+  {
+    "camera": "Olympus E-600",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4096,
+    "pixelHeight": 3084,
+    "pixelPitch": 4.223632813
+  },
+  {
+    "camera": "Olympus E-620",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4100,
+    "pixelHeight": 3084,
+    "pixelPitch": 4.219512195
+  },
+  {
+    "camera": "Olympus OM-D E-M1",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4640,
+    "pixelHeight": 3472,
+    "pixelPitch": 3.728448276
+  },
+  {
+    "camera": "Olympus OM-D E-M1 Mark II",
+    "sensorWidth": 17.4,
+    "sensorHeight": 13,
+    "pixelWidth": 5240,
+    "pixelHeight": 3912,
+    "pixelPitch": 3.320610687
+  },
+  {
+    "camera": "Olympus OM-D E-M10",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4640,
+    "pixelHeight": 3472,
+    "pixelPitch": 3.728448276
+  },
+  {
+    "camera": "Olympus OM-D E-M10 Mark II",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4640,
+    "pixelHeight": 3472,
+    "pixelPitch": 3.728448276
+  },
+  {
+    "camera": "Olympus OM-D E-M5",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4640,
+    "pixelHeight": 3472,
+    "pixelPitch": 3.728448276
+  },
+  {
+    "camera": "Olympus OM-D E-M5 Mark II",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4640,
+    "pixelHeight": 3472,
+    "pixelPitch": 3.728448276
+  },
+  {
+    "camera": "Olympus PEN E-P1",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4100,
+    "pixelHeight": 3084,
+    "pixelPitch": 4.219512195
+  },
+  {
+    "camera": "Olympus PEN E-P2",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4100,
+    "pixelHeight": 3084,
+    "pixelPitch": 4.219512195
+  },
+  {
+    "camera": "Olympus PEN E-P3",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4080,
+    "pixelHeight": 3040,
+    "pixelPitch": 4.240196078
+  },
+  {
+    "camera": "Olympus PEN E-P5",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4640,
+    "pixelHeight": 3472,
+    "pixelPitch": 3.728448276
+  },
+  {
+    "camera": "Olympus PEN E-PL1",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4096,
+    "pixelHeight": 3084,
+    "pixelPitch": 4.223632813
+  },
+  {
+    "camera": "Olympus PEN E-PL2",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4096,
+    "pixelHeight": 3084,
+    "pixelPitch": 4.223632813
+  },
+  {
+    "camera": "Olympus PEN E-PL3",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4080,
+    "pixelHeight": 3040,
+    "pixelPitch": 4.240196078
+  },
+  {
+    "camera": "Olympus PEN E-PL5",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4640,
+    "pixelHeight": 3472,
+    "pixelPitch": 3.728448276
+  },
+  {
+    "camera": "Olympus PEN E-PL7",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4640,
+    "pixelHeight": 3472,
+    "pixelPitch": 3.728448276
+  },
+  {
+    "camera": "Olympus PEN E-PM1",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4080,
+    "pixelHeight": 3040,
+    "pixelPitch": 4.240196078
+  },
+  {
+    "camera": "Olympus PEN E-PM2",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4640,
+    "pixelHeight": 3472,
+    "pixelPitch": 3.728448276
+  },
+  {
+    "camera": "Olympus PEN-F",
+    "sensorWidth": 17.4,
+    "sensorHeight": 13,
+    "pixelWidth": 5200,
+    "pixelHeight": 3904,
+    "pixelPitch": 3.346153846
+  },
+  {
+    "camera": "Panasonic Lumix DMC-G1",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4018,
+    "pixelHeight": 3016,
+    "pixelPitch": 4.305624689
+  },
+  {
+    "camera": "Panasonic Lumix DMC-G10",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4000,
+    "pixelHeight": 3000,
+    "pixelPitch": 4.325
+  },
+  {
+    "camera": "Panasonic Lumix DMC-G2",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4000,
+    "pixelHeight": 3000,
+    "pixelPitch": 4.325
+  },
+  {
+    "camera": "Panasonic Lumix DMC-G3",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4608,
+    "pixelHeight": 3464,
+    "pixelPitch": 3.754340278
+  },
+  {
+    "camera": "Panasonic Lumix DMC-G5",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4624,
+    "pixelHeight": 3472,
+    "pixelPitch": 3.741349481
+  },
+  {
+    "camera": "Panasonic Lumix DMC-G6",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4624,
+    "pixelHeight": 3472,
+    "pixelPitch": 3.741349481
+  },
+  {
+    "camera": "Panasonic Lumix DMC-G80",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4608,
+    "pixelHeight": 3464,
+    "pixelPitch": 3.754340278
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GF1",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4018,
+    "pixelHeight": 3016,
+    "pixelPitch": 4.305624689
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GF2",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4088,
+    "pixelHeight": 3016,
+    "pixelPitch": 4.231898239
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GF3",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4016,
+    "pixelHeight": 3016,
+    "pixelPitch": 4.307768924
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GF5",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4019,
+    "pixelHeight": 3016,
+    "pixelPitch": 4.304553371
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GF6",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4608,
+    "pixelHeight": 3464,
+    "pixelPitch": 3.754340278
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GH1",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4018,
+    "pixelHeight": 3016,
+    "pixelPitch": 4.305624689
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GH2",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4760,
+    "pixelHeight": 3472,
+    "pixelPitch": 3.634453782
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GH3",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4624,
+    "pixelHeight": 3472,
+    "pixelPitch": 3.741349481
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GH4",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4624,
+    "pixelHeight": 3472,
+    "pixelPitch": 3.741349481
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GM1",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4608,
+    "pixelHeight": 3464,
+    "pixelPitch": 3.754340278
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GM5",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4612,
+    "pixelHeight": 3468,
+    "pixelPitch": 3.751084128
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GX1",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4608,
+    "pixelHeight": 3464,
+    "pixelPitch": 3.754340278
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GX7",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4608,
+    "pixelHeight": 3464,
+    "pixelPitch": 3.754340278
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GX8",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 5200,
+    "pixelHeight": 3904,
+    "pixelPitch": 3.326923077
+  },
+  {
+    "camera": "Panasonic Lumix DMC-GX80",
+    "sensorWidth": 17.3,
+    "sensorHeight": 13,
+    "pixelWidth": 4608,
+    "pixelHeight": 3464,
+    "pixelPitch": 3.754340278
+  },
+  {
+    "camera": "Panasonic Lumix DMC-L10",
+    "sensorWidth": 17,
+    "sensorHeight": 13,
+    "pixelWidth": 3682,
+    "pixelHeight": 2751,
+    "pixelPitch": 4.617055948
+  },
+  {
+    "camera": "Pentax 645D",
+    "sensorWidth": 44,
+    "sensorHeight": 33,
+    "pixelWidth": 7424,
+    "pixelHeight": 5552,
+    "pixelPitch": 5.926724138
+  },
+  {
+    "camera": "Pentax 645Z",
+    "sensorWidth": 43.8,
+    "sensorHeight": 32.8,
+    "pixelWidth": 8269,
+    "pixelHeight": 6217,
+    "pixelPitch": 5.296892006
+  },
+  {
+    "camera": "Pentax K-01",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.7,
+    "pixelWidth": 4936,
+    "pixelHeight": 3272,
+    "pixelPitch": 4.801458671
+  },
+  {
+    "camera": "Pentax K-1",
+    "sensorWidth": 35.9,
+    "sensorHeight": 24,
+    "pixelWidth": 7392,
+    "pixelHeight": 4950,
+    "pixelPitch": 4.856601732
+  },
+  {
+    "camera": "Pentax K-3",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6080,
+    "pixelHeight": 4032,
+    "pixelPitch": 3.865131579
+  },
+  {
+    "camera": "Pentax K-3 II",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6080,
+    "pixelHeight": 4032,
+    "pixelPitch": 3.865131579
+  },
+  {
+    "camera": "Pentax K-30",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.7,
+    "pixelWidth": 4936,
+    "pixelHeight": 3272,
+    "pixelPitch": 4.801458671
+  },
+  {
+    "camera": "Pentax K-5",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.7,
+    "pixelWidth": 4928,
+    "pixelHeight": 3264,
+    "pixelPitch": 4.809253247
+  },
+  {
+    "camera": "Pentax K-5 II",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.7,
+    "pixelWidth": 4928,
+    "pixelHeight": 3264,
+    "pixelPitch": 4.809253247
+  },
+  {
+    "camera": "Pentax K-5 IIs",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.7,
+    "pixelWidth": 4992,
+    "pixelHeight": 3284,
+    "pixelPitch": 4.747596154
+  },
+  {
+    "camera": "Pentax K-50",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.7,
+    "pixelWidth": 4936,
+    "pixelHeight": 3272,
+    "pixelPitch": 4.801458671
+  },
+  {
+    "camera": "Pentax K-500",
+    "sensorWidth": 23.7,
+    "sensorHeight": 15.7,
+    "pixelWidth": 4936,
+    "pixelHeight": 3272,
+    "pixelPitch": 4.801458671
+  },
+  {
+    "camera": "Pentax K-7",
+    "sensorWidth": 23.4,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4736,
+    "pixelHeight": 3136,
+    "pixelPitch": 4.940878378
+  },
+  {
+    "camera": "Pentax K-m",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.7,
+    "pixelWidth": 3912,
+    "pixelHeight": 2608,
+    "pixelPitch": 6.007157464
+  },
+  {
+    "camera": "Pentax K-R",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 4299,
+    "pixelHeight": 2885,
+    "pixelPitch": 5.489648756
+  },
+  {
+    "camera": "Pentax K-S1",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 5504,
+    "pixelHeight": 3664,
+    "pixelPitch": 4.269622093
+  },
+  {
+    "camera": "Pentax K-x",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 4299,
+    "pixelHeight": 2885,
+    "pixelPitch": 5.489648756
+  },
+  {
+    "camera": "Pentax K10D",
+    "sensorWidth": 24,
+    "sensorHeight": 16,
+    "pixelWidth": 3936,
+    "pixelHeight": 2624,
+    "pixelPitch": 6.097560976
+  },
+  {
+    "camera": "Pentax K200D",
+    "sensorWidth": 24,
+    "sensorHeight": 16,
+    "pixelWidth": 3896,
+    "pixelHeight": 2616,
+    "pixelPitch": 6.160164271
+  },
+  {
+    "camera": "Pentax K20D",
+    "sensorWidth": 23,
+    "sensorHeight": 16,
+    "pixelWidth": 4688,
+    "pixelHeight": 3124,
+    "pixelPitch": 4.906143345
+  },
+  {
+    "camera": "Samsung GX-20",
+    "sensorWidth": 23,
+    "sensorHeight": 16,
+    "pixelWidth": 4688,
+    "pixelHeight": 3124,
+    "pixelPitch": 4.906143345
+  },
+  {
+    "camera": "Samsung NX1",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.7,
+    "pixelWidth": 6496,
+    "pixelHeight": 4336,
+    "pixelPitch": 3.617610837
+  },
+  {
+    "camera": "Samsung NX10",
+    "sensorWidth": 23.4,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4680,
+    "pixelHeight": 3120,
+    "pixelPitch": 5
+  },
+  {
+    "camera": "Samsung NX100",
+    "sensorWidth": 23.4,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4704,
+    "pixelHeight": 3124,
+    "pixelPitch": 4.974489796
+  },
+  {
+    "camera": "Samsung NX1000",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.7,
+    "pixelWidth": 5530,
+    "pixelHeight": 3694,
+    "pixelPitch": 4.24954792
+  },
+  {
+    "camera": "Samsung NX11",
+    "sensorWidth": 23.4,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4592,
+    "pixelHeight": 3056,
+    "pixelPitch": 5.095818815
+  },
+  {
+    "camera": "Samsung NX1100",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.7,
+    "pixelWidth": 5530,
+    "pixelHeight": 3694,
+    "pixelPitch": 4.24954792
+  },
+  {
+    "camera": "Samsung NX20",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.7,
+    "pixelWidth": 5530,
+    "pixelHeight": 3694,
+    "pixelPitch": 4.24954792
+  },
+  {
+    "camera": "Samsung NX200",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.7,
+    "pixelWidth": 5528,
+    "pixelHeight": 3662,
+    "pixelPitch": 4.251085384
+  },
+  {
+    "camera": "Samsung NX2000",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.7,
+    "pixelWidth": 5536,
+    "pixelHeight": 3714,
+    "pixelPitch": 4.244942197
+  },
+  {
+    "camera": "Samsung NX210",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.7,
+    "pixelWidth": 5530,
+    "pixelHeight": 3694,
+    "pixelPitch": 4.24954792
+  },
+  {
+    "camera": "Samsung NX30",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.7,
+    "pixelWidth": 5546,
+    "pixelHeight": 3714,
+    "pixelPitch": 4.237288136
+  },
+  {
+    "camera": "Samsung NX300",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.7,
+    "pixelWidth": 5546,
+    "pixelHeight": 3714,
+    "pixelPitch": 4.237288136
+  },
+  {
+    "camera": "Samsung NX500",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.7,
+    "pixelWidth": 6496,
+    "pixelHeight": 4336,
+    "pixelPitch": 3.617610837
+  },
+  {
+    "camera": "Sony a100",
+    "sensorWidth": 24,
+    "sensorHeight": 16,
+    "pixelWidth": 3880,
+    "pixelHeight": 2608,
+    "pixelPitch": 6.18556701
+  },
+  {
+    "camera": "Sony a200",
+    "sensorWidth": 24,
+    "sensorHeight": 16,
+    "pixelWidth": 3880,
+    "pixelHeight": 2608,
+    "pixelPitch": 6.18556701
+  },
+  {
+    "camera": "Sony a230",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 3880,
+    "pixelHeight": 2608,
+    "pixelPitch": 6.082474227
+  },
+  {
+    "camera": "Sony a290",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 4600,
+    "pixelHeight": 3072,
+    "pixelPitch": 5.130434783
+  },
+  {
+    "camera": "Sony a300",
+    "sensorWidth": 24,
+    "sensorHeight": 16,
+    "pixelWidth": 3880,
+    "pixelHeight": 2608,
+    "pixelPitch": 6.18556701
+  },
+  {
+    "camera": "Sony a3000",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 5496,
+    "pixelHeight": 3656,
+    "pixelPitch": 4.275836972
+  },
+  {
+    "camera": "Sony a33",
+    "sensorWidth": 23.4,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4592,
+    "pixelHeight": 3056,
+    "pixelPitch": 5.095818815
+  },
+  {
+    "camera": "Sony a330",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 3880,
+    "pixelHeight": 2608,
+    "pixelPitch": 6.082474227
+  },
+  {
+    "camera": "Sony a35",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4912,
+    "pixelHeight": 3264,
+    "pixelPitch": 4.784201954
+  },
+  {
+    "camera": "Sony a350",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 4600,
+    "pixelHeight": 3072,
+    "pixelPitch": 5.130434783
+  },
+  {
+    "camera": "Sony a37",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4928,
+    "pixelHeight": 3276,
+    "pixelPitch": 4.768668831
+  },
+  {
+    "camera": "Sony a380",
+    "sensorWidth": 23.6,
+    "sensorHeight": 15.8,
+    "pixelWidth": 4600,
+    "pixelHeight": 3072,
+    "pixelPitch": 5.130434783
+  },
+  {
+    "camera": "Sony a390",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.7,
+    "pixelWidth": 4600,
+    "pixelHeight": 3072,
+    "pixelPitch": 5.108695652
+  },
+  {
+    "camera": "Sony a450",
+    "sensorWidth": 23.4,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4592,
+    "pixelHeight": 3056,
+    "pixelPitch": 5.095818815
+  },
+  {
+    "camera": "Sony a500",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4272,
+    "pixelHeight": 2848,
+    "pixelPitch": 5.50093633
+  },
+  {
+    "camera": "Sony a5000",
+    "sensorWidth": 23.2,
+    "sensorHeight": 15.4,
+    "pixelWidth": 5496,
+    "pixelHeight": 3656,
+    "pixelPitch": 4.22125182
+  },
+  {
+    "camera": "Sony a5100",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6024,
+    "pixelHeight": 4024,
+    "pixelPitch": 3.901062417
+  },
+  {
+    "camera": "Sony a55",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4912,
+    "pixelHeight": 3264,
+    "pixelPitch": 4.784201954
+  },
+  {
+    "camera": "Sony a550",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4592,
+    "pixelHeight": 3056,
+    "pixelPitch": 5.117595819
+  },
+  {
+    "camera": "Sony a560",
+    "sensorWidth": 23.4,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4592,
+    "pixelHeight": 3056,
+    "pixelPitch": 5.095818815
+  },
+  {
+    "camera": "Sony a57",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4928,
+    "pixelHeight": 3276,
+    "pixelPitch": 4.768668831
+  },
+  {
+    "camera": "Sony a58",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 5496,
+    "pixelHeight": 3656,
+    "pixelPitch": 4.275836972
+  },
+  {
+    "camera": "Sony a580",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6024,
+    "pixelHeight": 4024,
+    "pixelPitch": 3.901062417
+  },
+  {
+    "camera": "Sony a6000",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6024,
+    "pixelHeight": 4024,
+    "pixelPitch": 3.901062417
+  },
+  {
+    "camera": "Sony a6300",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6024,
+    "pixelHeight": 4024,
+    "pixelPitch": 3.901062417
+  },
+  {
+    "camera": "Sony a65",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6024,
+    "pixelHeight": 4024,
+    "pixelPitch": 3.901062417
+  },
+  {
+    "camera": "Sony a6500",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6024,
+    "pixelHeight": 4024,
+    "pixelPitch": 3.901062417
+  },
+  {
+    "camera": "Sony a68",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6024,
+    "pixelHeight": 4016,
+    "pixelPitch": 3.901062417
+  },
+  {
+    "camera": "Sony a7",
+    "sensorWidth": 35.8,
+    "sensorHeight": 23.9,
+    "pixelWidth": 6024,
+    "pixelHeight": 4024,
+    "pixelPitch": 5.942895086
+  },
+  {
+    "camera": "Sony a7 II",
+    "sensorWidth": 35.8,
+    "sensorHeight": 23.9,
+    "pixelWidth": 6024,
+    "pixelHeight": 4024,
+    "pixelPitch": 5.942895086
+  },
+  {
+    "camera": "Sony a700",
+    "sensorWidth": 24,
+    "sensorHeight": 16,
+    "pixelWidth": 4288,
+    "pixelHeight": 2856,
+    "pixelPitch": 5.597014925
+  },
+  {
+    "camera": "Sony a77",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6048,
+    "pixelHeight": 4024,
+    "pixelPitch": 3.885582011
+  },
+  {
+    "camera": "Sony a77 II",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6024,
+    "pixelHeight": 4024,
+    "pixelPitch": 3.901062417
+  },
+  {
+    "camera": "Sony a7R",
+    "sensorWidth": 35.9,
+    "sensorHeight": 24,
+    "pixelWidth": 7392,
+    "pixelHeight": 4920,
+    "pixelPitch": 4.856601732
+  },
+  {
+    "camera": "Sony a7R II",
+    "sensorWidth": 35.9,
+    "sensorHeight": 24,
+    "pixelWidth": 8000,
+    "pixelHeight": 5320,
+    "pixelPitch": 4.4875
+  },
+  {
+    "camera": "Sony a7S",
+    "sensorWidth": 35.6,
+    "sensorHeight": 23.8,
+    "pixelWidth": 4288,
+    "pixelHeight": 2848,
+    "pixelPitch": 8.302238806
+  },
+  {
+    "camera": "Sony a7S II",
+    "sensorWidth": 35.8,
+    "sensorHeight": 23.8,
+    "pixelWidth": 4256,
+    "pixelHeight": 2848,
+    "pixelPitch": 8.411654135
+  },
+  {
+    "camera": "Sony a850",
+    "sensorWidth": 35.9,
+    "sensorHeight": 24,
+    "pixelWidth": 6080,
+    "pixelHeight": 4048,
+    "pixelPitch": 5.904605263
+  },
+  {
+    "camera": "Sony a900",
+    "sensorWidth": 36,
+    "sensorHeight": 24,
+    "pixelWidth": 6080,
+    "pixelHeight": 4048,
+    "pixelPitch": 5.921052632
+  },
+  {
+    "camera": "Sony a99",
+    "sensorWidth": 35.8,
+    "sensorHeight": 23.9,
+    "pixelWidth": 6024,
+    "pixelHeight": 4024,
+    "pixelPitch": 5.942895086
+  },
+  {
+    "camera": "Sony a99 II",
+    "sensorWidth": 35.9,
+    "sensorHeight": 24,
+    "pixelWidth": 8000,
+    "pixelHeight": 5320,
+    "pixelPitch": 4.4875
+  },
+  {
+    "camera": "Sony NEX-3",
+    "sensorWidth": 23.4,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4608,
+    "pixelHeight": 3072,
+    "pixelPitch": 5.078125
+  },
+  {
+    "camera": "Sony NEX-3N",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4928,
+    "pixelHeight": 3276,
+    "pixelPitch": 4.768668831
+  },
+  {
+    "camera": "Sony NEX-5",
+    "sensorWidth": 23.4,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4608,
+    "pixelHeight": 3072,
+    "pixelPitch": 5.078125
+  },
+  {
+    "camera": "Sony NEX-5N",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4928,
+    "pixelHeight": 3276,
+    "pixelPitch": 4.768668831
+  },
+  {
+    "camera": "Sony NEX-5R",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4928,
+    "pixelHeight": 3276,
+    "pixelPitch": 4.768668831
+  },
+  {
+    "camera": "Sony NEX-5T",
+    "sensorWidth": 23.4,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4928,
+    "pixelHeight": 3276,
+    "pixelPitch": 4.748376623
+  },
+  {
+    "camera": "Sony NEX-6",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4912,
+    "pixelHeight": 3264,
+    "pixelPitch": 4.784201954
+  },
+  {
+    "camera": "Sony NEX-7",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 6024,
+    "pixelHeight": 4024,
+    "pixelPitch": 3.901062417
+  },
+  {
+    "camera": "Sony NEX-C3",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4928,
+    "pixelHeight": 3280,
+    "pixelPitch": 4.768668831
+  },
+  {
+    "camera": "Sony NEX-F3",
+    "sensorWidth": 23.5,
+    "sensorHeight": 15.6,
+    "pixelWidth": 4928,
+    "pixelHeight": 3276,
+    "pixelPitch": 4.768668831
+  }
+]

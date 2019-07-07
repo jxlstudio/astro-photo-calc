@@ -5,14 +5,25 @@
       <b-field label="Aperature">
           <b-input v-model="aperature"></b-input>
       </b-field>
-      <b-field label="Sensor Physical Width (mm)">
+      <!-- <b-field label="Sensor Physical Width (mm)">
           <b-input v-model="sensorWidthMm"></b-input>
       </b-field>
       <b-field label="Sensor Pixel Width (px)">
           <b-input v-model="sensorWidthPx"></b-input>
-      </b-field>
+      </b-field> -->
       <b-field label="Focal Length (mm)">
           <b-input v-model="focalLength"></b-input>
+      </b-field>
+
+      <b-field label="Camera Model">
+          <b-select v-model="pixelPitch" placeholder="Select a Camera">
+              <option
+                  v-for="model in cameras"
+                  :value="model.pixelPitch"
+                  :key="model.camera">
+                  {{ model.camera }}
+              </option>
+          </b-select>
       </b-field>
       <p>https://petapixel.com/2017/04/07/npf-rule-formula-sharp-star-photos-every-time/</p>
     </div>
@@ -31,6 +42,7 @@
 <script>
 // @ is an alias to /src
 // import HelloWorld from '@/components/HelloWorld.vue'
+import camerasArray from '@/assets/cameras.json'
 
 // T o Build:
 // Camera selector with json file of pixel pitches
@@ -46,13 +58,15 @@ export default {
       aperature: 2.8,
       sensorWidthMm: 35.9,
       sensorWidthPx: 7424,
-      focalLength: 16
+      focalLength: 16,
+      cameras: camerasArray,
+      pixelPitch: 4.84
     }
   },
   computed: {
-    pixelPitch: function () {
-      return (this.sensorWidthMm / this.sensorWidthPx) * 1000
-    },
+    // pixelPitch: function () {
+    //   return (this.sensorWidthMm / this.sensorWidthPx) * 1000
+    // },
     exposureLength: function () {
       let e = (((35 * this.aperature) + 30) * this.pixelPitch) / this.focalLength
       return e
@@ -60,3 +74,9 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+label, .label {
+  color: #fff;
+}
+</style>
