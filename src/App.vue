@@ -66,6 +66,7 @@ $table-row-hover-background-color: $black;
 $table-striped-row-even-background-color: $darkbg;
 $table-striped-row-even-hover-background-color: $black;
 $table-head-background-color: $red-darker;
+$content-table-cell-heading-color: $black;
 $table-cell-border: 1px solid $red-darker;
 
 // Import Bulma and Buefy styles

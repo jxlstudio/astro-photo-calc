@@ -24,7 +24,7 @@
               </option>
           </b-select>
       </b-field>
-      <p>https://petapixel.com/2017/04/07/npf-rule-formula-sharp-star-photos-every-time/</p>
+      <p>Using <em>(35 x aperture + 30 x pixel pitch) ÷ focal length = shutter speed in seconds</em> from: https://petapixel.com/2017/04/07/npf-rule-formula-sharp-star-photos-every-time/</p>
     </div>
     <div class="column" id="output">
       <h2 class="title is-2">Output</h2>
