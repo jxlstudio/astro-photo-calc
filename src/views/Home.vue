@@ -16,6 +16,7 @@
 
       <b-field label="Camera Model">
           <b-select v-model="pixelPitch" placeholder="Select a Camera">
+              <option value="4.84" selected>Nikon D800</option>
               <option
                   v-for="model in cameras"
                   :value="model.pixelPitch"
@@ -24,16 +25,17 @@
               </option>
           </b-select>
       </b-field>
-      <p>Using <em>(35 x aperture + 30 x pixel pitch) ÷ focal length = shutter speed in seconds</em> from: https://petapixel.com/2017/04/07/npf-rule-formula-sharp-star-photos-every-time/</p>
+      <p><b>Pixel Pitch: </b> {{ pixelPitch.toFixed(2) }}</p>
     </div>
     <div class="column" id="output">
       <h2 class="title is-2">Output</h2>
-      <div class="box">Pixel Pitch:
+      <!-- <div class="box">Pixel Pitch:
         <h3 class="title is-3">{{ pixelPitch.toFixed(2) }}</h3>
-      </div>
+      </div> -->
       <div class="box">Max Exposure Length:
         <h3 class="title is-3">{{ exposureLength.toFixed(0) }} seconds</h3>
       </div>
+      <p>Using <em>(35 x aperture + 30 x pixel pitch) ÷ focal length = shutter speed in seconds</em> from: https://petapixel.com/2017/04/07/npf-rule-formula-sharp-star-photos-every-time/</p>
       <div class="box">
         <h3 class="title is-3">Popular Focal Lengths</h3>
         <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">

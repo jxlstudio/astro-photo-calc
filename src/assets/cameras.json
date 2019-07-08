@@ -941,7 +941,8 @@
     "sensorHeight": 24,
     "pixelWidth": 7424,
     "pixelHeight": 4924,
-    "pixelPitch": 4.835668103
+    "pixelPitch": 4.835668103,
+    "selected": true
   },
   {
     "camera": "Nikon D800E",
