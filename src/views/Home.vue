@@ -64,7 +64,14 @@ import camerasArray from '@/assets/cameras.json'
 
 // To Do:
 // Clean up UI
-// Create icon set
+
+// Detects if device is on iOS
+const isIos = () => {
+  const userAgent = window.navigator.userAgent.toLowerCase()
+  return /iphone|ipad|ipod/.test(userAgent)
+}
+// Detects if device is in standalone mode
+const isInStandaloneMode = () => ('standalone' in window.navigator) && (window.navigator.standalone)
 
 export default {
   name: 'home',
@@ -117,6 +124,11 @@ export default {
         e = (((35 * this.aperature) + 30) * ((this.sensorWidthMm / this.sensorWidthPx) * 1000)) / val
       }
       return e.toFixed(0)
+    }
+  },
+  mounted () {
+    if (isIos() && !isInStandaloneMode()) {
+      this.$snackbar.open('Install this webapp on your iPhone: tap the share icon below and then select "Add to Homescreen"')
     }
   }
 }
