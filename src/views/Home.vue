@@ -5,10 +5,10 @@
         <h3 class="title is-3">{{ exposureLength.toFixed(0) }} seconds</h3>
       </div>
       <b-field label="Aperature">
-          <b-input v-model="aperature"></b-input>
+          <b-input type="number" step="0.01" v-model="aperature"></b-input>
       </b-field>
       <b-field label="Focal Length (mm)">
-          <b-input v-model="focalLength"></b-input>
+          <b-input type="number" step="0.01" v-model="focalLength"></b-input>
       </b-field>
 
       <b-field label="Camera Model">
