@@ -60,7 +60,7 @@ $input-focus-border-color: $red-darker;
 
 // Tables
 $table-color: $red;
-$table-cell-heading-color: red;
+$table-cell-heading-color: $black;
 $table-background-color: $darkbg;
 $table-row-hover-background-color: $black;
 $table-striped-row-even-background-color: $darkbg;

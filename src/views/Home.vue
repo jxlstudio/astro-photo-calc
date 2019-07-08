@@ -1,7 +1,6 @@
 <template>
   <div class="columns">
     <div class="column" id="input">
-      <h2 class="title is-2">Input</h2>
       <b-field label="Aperature">
           <b-input v-model="aperature"></b-input>
       </b-field>
