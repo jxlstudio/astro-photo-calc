@@ -15,7 +15,7 @@ $twitter: #4099FF;
 $twitter-invert: findColorInvert($twitter);
 $red: #a90000;
 $red-darker: #802626;
-$darkbg: #222;
+$darkbg: #111;
 
 // Setup $colors to use as bulma classes (e.g. 'is-twitter')
 $colors: (
@@ -60,7 +60,7 @@ $table-background-color: $darkbg;
 $table-row-hover-background-color: $black;
 $table-striped-row-even-background-color: $darkbg;
 $table-striped-row-even-hover-background-color: $black;
-$table-head-background-color: $red-darker;
+// $table-head-background-color: $red-darker;
 $content-table-cell-heading-color: $black;
 $table-cell-border: 1px solid $red-darker;
 
@@ -69,7 +69,7 @@ $table-cell-border: 1px solid $red-darker;
 @import "~buefy/src/scss/buefy";
 
 html {
-  background: #111;
+  background: #000;
 }
 
 #app {
@@ -79,7 +79,7 @@ html {
   // text-align: center;
   // color: $red;
   padding: 30px;
-  background: #111;
+  background: #000;
 }
 
 label, .label {
