@@ -26,10 +26,10 @@
       <!-- Need to fix this functionality -->
       <div v-if="pixelPitch === 'Other'">
         <b-field label="Sensor Physical Width (mm)">
-            <b-input v-model="sensorWidthMm"></b-input>
+            <b-input type="number" step="0.1" v-model="sensorWidthMm"></b-input>
         </b-field>
         <b-field label="Sensor Pixel Width (px)">
-            <b-input v-model="sensorWidthPx"></b-input>
+            <b-input type="number" step="0.1" v-model="sensorWidthPx"></b-input>
         </b-field>
       </div>
       <p><b>Pixel Pitch: </b> <span v-if="pixelPitch !== 'Other'">{{ pixelPitch }}</span><span v-else-if="pixelPitch === 'Other'">{{ otherPixelPitch }}</span>µm</p>
