@@ -13,6 +13,7 @@
 
       <b-field label="Camera Model">
           <b-select v-model="pixelPitch" placeholder="Select a Camera">
+              <option value="Other">Other - Not on List</option>
               <!-- <option value="4.84" selected>Nikon D800</option> -->
               <option
                   v-for="model in cameras"
@@ -20,19 +21,18 @@
                   :key="model.camera">
                   {{ model.camera }}
               </option>
-              <option value="Other">Other</option>
           </b-select>
       </b-field>
       <!-- Need to fix this functionality -->
-      <div v-if="pixelPitch === 'Other'">
+      <div class="content" v-if="pixelPitch === 'Other'">
         <b-field label="Sensor Physical Width (mm)">
             <b-input type="number" step="0.1" v-model="sensorWidthMm"></b-input>
         </b-field>
         <b-field label="Sensor Pixel Width (px)">
-            <b-input type="number" step="0.1" v-model="sensorWidthPx"></b-input>
+            <b-input type="number" v-model="sensorWidthPx"></b-input>
         </b-field>
       </div>
-      <p><b>Pixel Pitch: </b> <span v-if="pixelPitch !== 'Other'">{{ pixelPitch }}</span><span v-else-if="pixelPitch === 'Other'">{{ otherPixelPitch }}</span>µm</p>
+      <p class="content"><b>Pixel Pitch: </b> <span v-if="pixelPitch !== 'Other'">{{ pixelPitch }}</span><span v-else-if="pixelPitch === 'Other'">{{ otherPixelPitch }}</span>µm</p>
     </div>
     <div class="column">
       <div class="box">
