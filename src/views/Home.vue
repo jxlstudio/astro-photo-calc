@@ -4,28 +4,32 @@
       <b-field label="Aperature">
           <b-input v-model="aperature"></b-input>
       </b-field>
-      <!-- <b-field label="Sensor Physical Width (mm)">
-          <b-input v-model="sensorWidthMm"></b-input>
-      </b-field>
-      <b-field label="Sensor Pixel Width (px)">
-          <b-input v-model="sensorWidthPx"></b-input>
-      </b-field> -->
       <b-field label="Focal Length (mm)">
           <b-input v-model="focalLength"></b-input>
       </b-field>
 
       <b-field label="Camera Model">
           <b-select v-model="pixelPitch" placeholder="Select a Camera">
-              <option value="4.84" selected>Nikon D800</option>
+              <!-- <option value="4.84" selected>Nikon D800</option> -->
               <option
                   v-for="model in cameras"
                   :value="model.pixelPitch"
                   :key="model.camera">
                   {{ model.camera }}
               </option>
+              <option value="Other">Other</option>
           </b-select>
       </b-field>
-      <p><b>Pixel Pitch: </b> {{ pixelPitch.toFixed(2) }}</p>
+      <!-- Need to fix this functionality -->
+      <div v-if="pixelPitch === 'Other'">
+        <b-field label="Sensor Physical Width (mm)">
+            <b-input v-model="sensorWidthMm"></b-input>
+        </b-field>
+        <b-field label="Sensor Pixel Width (px)">
+            <b-input v-model="sensorWidthPx"></b-input>
+        </b-field>
+      </div>
+      <p><b>Pixel Pitch: </b> <span v-if="pixelPitch !== 'Other'">{{ pixelPitch }}</span> <span v-else-if="pixelPitch === 'Other'">{{ otherPixelPitch }}</span></p>
     </div>
     <div class="column" id="output">
       <div class="box">Max Exposure Length:
@@ -33,7 +37,7 @@
       </div>
       <p>Using <em>(35 x aperture + 30 x pixel pitch) ÷ focal length = shutter speed in seconds</em> from: https://petapixel.com/2017/04/07/npf-rule-formula-sharp-star-photos-every-time/</p>
       <div class="box">
-        <h3 class="title is-3">Popular Focal Lengths</h3>
+        <h3 class="title is-3">Other Focal Lengths</h3>
         <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
           <thead>
             <tr>
@@ -74,7 +78,7 @@ export default {
       sensorWidthPx: 7424,
       focalLength: 16,
       cameras: camerasArray,
-      pixelPitch: 4.84,
+      pixelPitch: null,
       focalLengths: [
         '10.5',
         '16',
@@ -93,13 +97,27 @@ export default {
     //   return (this.sensorWidthMm / this.sensorWidthPx) * 1000
     // },
     exposureLength: function () {
-      let e = (((35 * this.aperature) + 30) * this.pixelPitch) / this.focalLength
+      let e
+      if (this.pixelPitch !== 'Other') {
+        e = (((35 * this.aperature) + 30) * this.pixelPitch) / this.focalLength
+      } else {
+        e = (((35 * this.aperature) + 30) * ((this.sensorWidthMm / this.sensorWidthPx) * 1000)) / this.focalLength
+      }
       return e
+    },
+    otherPixelPitch: function () {
+      let e = (this.sensorWidthMm / this.sensorWidthPx) * 1000
+      return e.toFixed(2)
     }
   },
   methods: {
     getExposure (val) {
-      let e = (((35 * this.aperature) + 30) * this.pixelPitch) / val
+      let e
+      if (this.pixelPitch !== 'Other') {
+        e = (((35 * this.aperature) + 30) * this.pixelPitch) / val
+      } else {
+        e = (((35 * this.aperature) + 30) * ((this.sensorWidthMm / this.sensorWidthPx) * 1000)) / val
+      }
       return e.toFixed(0)
     }
   }
