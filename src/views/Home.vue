@@ -1,8 +1,8 @@
 <template>
   <div class="columns">
     <div class="column">
-      <div class="box">Max Exposure Length:
-        <h3 class="title is-3">{{ exposureLength.toFixed(0) }} seconds</h3>
+      <div class="box main-box">Max Exposure Length:
+        <h3 class="title is-2">{{ exposureLength.toFixed(0) }} seconds</h3>
       </div>
       <b-field label="Aperature">
           <b-input type="number" step="0.01" v-model="aperature"></b-input>
@@ -121,3 +121,9 @@ export default {
   }
 }
 </script>
+
+<style>
+.box {
+  text-align: center;
+}
+</style>
