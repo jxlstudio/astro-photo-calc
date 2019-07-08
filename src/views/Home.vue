@@ -1,7 +1,7 @@
 <template>
   <div class="columns">
     <div class="column" id="input">
-      <h2>Input</h2>
+      <h2 class="title is-2">Input</h2>
       <b-field label="Aperature">
           <b-input v-model="aperature"></b-input>
       </b-field>
@@ -28,12 +28,29 @@
       <p>https://petapixel.com/2017/04/07/npf-rule-formula-sharp-star-photos-every-time/</p>
     </div>
     <div class="column" id="output">
-      <h2>Output</h2>
+      <h2 class="title is-2">Output</h2>
       <div class="box">Pixel Pitch:
-        <h3>{{ pixelPitch.toFixed(2) }}</h3>
+        <h3 class="title is-3">{{ pixelPitch.toFixed(2) }}</h3>
       </div>
       <div class="box">Max Exposure Length:
-        <h3>{{ exposureLength.toFixed(0) }} seconds</h3>
+        <h3 class="title is-3">{{ exposureLength.toFixed(0) }} seconds</h3>
+      </div>
+      <div class="box">
+        <h3 class="title is-3">Popular Focal Lengths</h3>
+        <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
+          <thead>
+            <tr>
+              <th>Focal Length</th>
+              <th>Max Exposure Length</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr v-for="fl in focalLengths" :key="fl">
+              <td>{{ fl }}mm</td>
+              <td>{{ getExposure(fl) }} seconds</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
   </div>
@@ -60,7 +77,18 @@ export default {
       sensorWidthPx: 7424,
       focalLength: 16,
       cameras: camerasArray,
-      pixelPitch: 4.84
+      pixelPitch: 4.84,
+      focalLengths: [
+        '10.5',
+        '16',
+        '18',
+        '24',
+        '50',
+        '70',
+        '105',
+        '200',
+        '300'
+      ]
     }
   },
   computed: {
@@ -71,12 +99,12 @@ export default {
       let e = (((35 * this.aperature) + 30) * this.pixelPitch) / this.focalLength
       return e
     }
+  },
+  methods: {
+    getExposure (val) {
+      let e = (((35 * this.aperature) + 30) * this.pixelPitch) / val
+      return e.toFixed(0)
+    }
   }
 }
 </script>
-
-<style lang="scss">
-label, .label {
-  color: #fff;
-}
-</style>

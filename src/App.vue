@@ -1,5 +1,10 @@
 <template>
-  <div class="content" id="app">
+  <div id="app">
+    <div class="columns">
+      <div class="column">
+        <h1 class="title is-1">Astro Photography Exposure Calculator</h1>
+      </div>
+    </div>
     <router-view/>
   </div>
 </template>
@@ -13,6 +18,9 @@ $primary: #8c67ef;
 $primary-invert: findColorInvert($primary);
 $twitter: #4099FF;
 $twitter-invert: findColorInvert($twitter);
+$red: #a90000;
+$red-darker: #802626;
+$darkbg: #222;
 
 // Setup $colors to use as bulma classes (e.g. 'is-twitter')
 $colors: (
@@ -33,12 +41,39 @@ $link: $primary;
 $link-invert: $primary-invert;
 $link-focus-border: $primary;
 
+// Text
+$text: $red;
+$box-color: $red;
+$box-background-color: $darkbg;
+$title-color: $red;
+$label-color: $red;
+
+// Forms
+$input-color: $red;
+$input-hover-color: $red-darker;
+$input-background-color: $darkbg;
+$input-border-color: $red;
+$input-hover-border-color: $red-darker;
+$input-icon-color: $red;
+$input-arrow: $red;
+$input-focus-border-color: $red-darker;
+
+// Tables
+$table-color: $red;
+$table-cell-heading-color: red;
+$table-background-color: $darkbg;
+$table-row-hover-background-color: $black;
+$table-striped-row-even-background-color: $darkbg;
+$table-striped-row-even-hover-background-color: $black;
+$table-head-background-color: $red-darker;
+$table-cell-border: 1px solid $red-darker;
+
 // Import Bulma and Buefy styles
 @import "~bulma";
 @import "~buefy/src/scss/buefy";
 
 html {
-  background: #777;
+  background: #111;
 }
 
 #app {
@@ -46,8 +81,12 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   // text-align: center;
-  color: #fff;
+  // color: $red;
   padding: 30px;
-  background: #777;
+  background: #111;
+}
+
+label, .label {
+  color: $red;
 }
 </style>
