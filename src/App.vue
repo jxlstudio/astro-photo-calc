@@ -1,10 +1,5 @@
 <template>
   <div id="app">
-    <div class="columns">
-      <div class="column">
-        <h1 class="title is-3">Astro Photography Exposure Calculator</h1>
-      </div>
-    </div>
     <router-view/>
   </div>
 </template>

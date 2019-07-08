@@ -1,6 +1,9 @@
 <template>
   <div class="columns">
-    <div class="column" id="input">
+    <div class="column">
+      <div class="box">Max Exposure Length:
+        <h3 class="title is-3">{{ exposureLength.toFixed(0) }} seconds</h3>
+      </div>
       <b-field label="Aperature">
           <b-input v-model="aperature"></b-input>
       </b-field>
@@ -31,10 +34,7 @@
       </div>
       <p><b>Pixel Pitch: </b> <span v-if="pixelPitch !== 'Other'">{{ pixelPitch }}</span><span v-else-if="pixelPitch === 'Other'">{{ otherPixelPitch }}</span>µm</p>
     </div>
-    <div class="column" id="output">
-      <div class="box">Max Exposure Length:
-        <h3 class="title is-3">{{ exposureLength.toFixed(0) }} seconds</h3>
-      </div>
+    <div class="column">
       <div class="box">
         <h3 class="title is-3">Other Focal Lengths</h3>
         <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
