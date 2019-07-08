@@ -29,13 +29,12 @@
             <b-input v-model="sensorWidthPx"></b-input>
         </b-field>
       </div>
-      <p><b>Pixel Pitch: </b> <span v-if="pixelPitch !== 'Other'">{{ pixelPitch }}</span> <span v-else-if="pixelPitch === 'Other'">{{ otherPixelPitch }}</span></p>
+      <p><b>Pixel Pitch: </b> <span v-if="pixelPitch !== 'Other'">{{ pixelPitch }}</span><span v-else-if="pixelPitch === 'Other'">{{ otherPixelPitch }}</span>µm</p>
     </div>
     <div class="column" id="output">
       <div class="box">Max Exposure Length:
         <h3 class="title is-3">{{ exposureLength.toFixed(0) }} seconds</h3>
       </div>
-      <p>Using <em>(35 x aperture + 30 x pixel pitch) ÷ focal length = shutter speed in seconds</em> from: https://petapixel.com/2017/04/07/npf-rule-formula-sharp-star-photos-every-time/</p>
       <div class="box">
         <h3 class="title is-3">Other Focal Lengths</h3>
         <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
@@ -53,24 +52,23 @@
           </tbody>
         </table>
       </div>
+      <p class="content">Using formula <em>(35 x aperture + 30 x pixel pitch) ÷ focal length = shutter speed in seconds</em> from <a class="has-text-weight-bold" href="https://petapixel.com/2017/04/07/npf-rule-formula-sharp-star-photos-every-time/" target="_blank">here</a>.</p>
+      <p class="content">Camera Model list and data from <a class="has-text-weight-bold" href="http://www.aaronpriestphoto.com/documents/NPF%20Rule%20for%20sharp%20stars.xlsx" target="_blank">here</a>.</p>
+      <p class="content">Built with <a class="has-text-weight-bold" href="https://vuejs.org/" target="_blank">Vue.js</a> by <a class="has-text-weight-bold" href="https://jxl.io" target="_blank">JXL Studio</a></p>
+      <p class="content"><a class="has-text-weight-bold" href="https://github.com/jxlstudio/astro-photo-calc" target="_blank">Github</a></p>
     </div>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-// import HelloWorld from '@/components/HelloWorld.vue'
 import camerasArray from '@/assets/cameras.json'
 
-// T o Build:
-// Camera selector with json file of pixel pitches
+// To Do:
 // Clean up UI
+// Create icon set
 
 export default {
   name: 'home',
-  components: {
-    // HelloWorld
-  },
   data () {
     return {
       aperature: 2.8,
@@ -82,6 +80,7 @@ export default {
       focalLengths: [
         '10.5',
         '16',
+        '14',
         '18',
         '24',
         '50',

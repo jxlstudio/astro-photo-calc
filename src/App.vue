@@ -37,7 +37,7 @@ $colors: (
 );
 
 // Links
-$link: $primary;
+$link: $red;
 $link-invert: $primary-invert;
 $link-focus-border: $primary;
 
