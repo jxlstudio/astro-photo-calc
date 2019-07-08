@@ -28,10 +28,6 @@
       <p><b>Pixel Pitch: </b> {{ pixelPitch.toFixed(2) }}</p>
     </div>
     <div class="column" id="output">
-      <h2 class="title is-2">Output</h2>
-      <!-- <div class="box">Pixel Pitch:
-        <h3 class="title is-3">{{ pixelPitch.toFixed(2) }}</h3>
-      </div> -->
       <div class="box">Max Exposure Length:
         <h3 class="title is-3">{{ exposureLength.toFixed(0) }} seconds</h3>
       </div>
