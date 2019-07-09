@@ -54,7 +54,7 @@
       </div>
       <p class="content">Using formula <em>(35 x aperture + 30 x pixel pitch) ÷ focal length = shutter speed in seconds</em> from <a class="has-text-weight-bold" href="https://petapixel.com/2017/04/07/npf-rule-formula-sharp-star-photos-every-time/" target="_blank">here</a>.</p>
       <p class="content">Camera Model list and data from <a class="has-text-weight-bold" href="http://www.aaronpriestphoto.com/documents/NPF%20Rule%20for%20sharp%20stars.xlsx" target="_blank">here</a>.</p>
-      <p class="content">Built with <a class="has-text-weight-bold" href="https://vuejs.org/" target="_blank">Vue.js</a> by <a class="has-text-weight-bold" href="https://jxl.io" target="_blank">JXL Studio</a> | <a class="has-text-weight-bold" href="https://github.com/jxlstudio/astro-photo-calc" target="_blank">Github</a></p>
+      <p class="content">Built with <a class="has-text-weight-bold" href="https://vuejs.org/" target="_blank">Vue</a> by <a class="has-text-weight-bold" href="https://jxl.io" target="_blank">JXL Studio</a> | <a class="has-text-weight-bold" href="https://github.com/jxlstudio/astro-photo-calc" target="_blank">Github</a></p>
     </div>
   </div>
 </template>
